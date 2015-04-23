@@ -3688,7 +3688,24 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "delivery1.panerabread.com",
+      "thumb": "panerabread/thumb.png",
+      "desc": "Panera's online ordering app, we'll have your order ready on the rapid pick-up shelf at the time you choose. No lines, no wait",
+      "url": "https://delivery1.panerabread.com",
+      "info": "https://delivery1.panerabread.com/#!/orderingHelp/",
+      "submitter": "shivanykshenoy",
+      "submissionDate": "2015-04-22",
+      "tags": [
+        "Food",
+        "Sandwiches",
+        "Panera",
+        "Rapid pickup",
+        "Delivery",
+        "Restaurant",
+        "Online Ordering"
+      ]
     }
-
   ]
 }
